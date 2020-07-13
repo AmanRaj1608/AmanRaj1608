@@ -12,6 +12,9 @@
    <a href="mailto:archanaamanraj@gmail.com">
     <img src="https://img.shields.io/badge/-archanaamanraj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:archanaamanraj@gmail.com">
    <a/>
+     <a href="https://github.com/AmanRaj1608/AmanRaj1608">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=AmanRaj1608.AmanRaj1608">
+   <a/>
 </p>
 
 <img src="https://66.media.tumblr.com/3c350e7134b99e7415c6d292210bc40d/tumblr_oznke6EemG1uuj1vto1_400.gifv" width="250" align='right'>
