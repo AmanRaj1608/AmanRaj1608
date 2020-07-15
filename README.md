@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/-archanaamanraj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:archanaamanraj@gmail.com">
    <a/>
      <a href="https://github.com/AmanRaj1608/AmanRaj1608">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=AmanRaj1608.AmanRaj1608">
+    <img src="http://okokcoolokok.glitch.me/badge?page_id=AmanRaj1608.AmanRaj1608">
    <a/>
 </p>
 
