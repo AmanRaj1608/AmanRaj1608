@@ -27,6 +27,8 @@
 -  🌊 I mostly write JavaScript for dev and C++ for competitive programming
 -  😋 Besides programming, I love watching Anime and reading Manga.
 
+<img src="https://github-readme-stats.vercel.app/api?username=amanraj1608&hide_border=true&show_icons=true">
+
 -------
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
