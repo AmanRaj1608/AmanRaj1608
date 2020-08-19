@@ -30,7 +30,7 @@
 
 <br />
 
-### Languages and Tools:
+### <img align='left' src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif" width="50"> Languages and Tools:
 
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][Aman]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][Aman]
