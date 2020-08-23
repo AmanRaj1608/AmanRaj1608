@@ -1,0 +1,470 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="eblcmdzx16s81"
+    shape-rendering="geometricPrecision" text-rendering="geometricPrecision" viewBox="0 0 819 692">
+    <style>
+        @keyframes eblcmdzx16s824_tr__tr {
+            0% {
+                transform: translate(0, 0) rotate(4deg)
+            }
+
+            20%,
+            90% {
+                transform: translate(0, 0) rotate(2deg)
+            }
+
+            40% {
+                transform: translate(0, 0) rotate(3deg)
+            }
+
+            60% {
+                transform: translate(0, 0) rotate(1deg)
+            }
+
+            80% {
+                transform: translate(0, 0) rotate(-1deg)
+            }
+        }
+
+        @keyframes eblcmdzx16s831_to__to {
+            0% {
+                transform: translate(0, 0);
+                animation-timing-function: cubic-bezier(.42, 0, .58, 1)
+            }
+
+            20% {
+                transform: translate(15px, 0);
+                animation-timing-function: cubic-bezier(.42, 0, .58, 1)
+            }
+
+            50% {
+                transform: translate(5px, 10px);
+                animation-timing-function: cubic-bezier(.42, 0, .58, 1)
+            }
+
+            70% {
+                transform: translate(5px, 5px);
+                animation-timing-function: cubic-bezier(.42, 0, .58, 1)
+            }
+
+            90% {
+                transform: translate(0, 5px)
+            }
+        }
+
+        @keyframes eblcmdzx16s838_tr__tr {
+            0% {
+                transform: translate(0, 0) rotate(5deg);
+                animation-timing-function: cubic-bezier(.42, 0, .58, 1)
+            }
+
+            20% {
+                transform: translate(0, 0) rotate(0deg);
+                animation-timing-function: cubic-bezier(.42, 0, .58, 1)
+            }
+
+            40% {
+                transform: translate(0, 0) rotate(-2deg)
+            }
+
+            60% {
+                transform: translate(0, 0) rotate(5deg)
+            }
+
+            80% {
+                transform: translate(0, 0) rotate(-1deg)
+            }
+        }
+
+        @keyframes eblcmdzx16s846_ts__ts {
+
+            0%,
+            40% {
+                transform: translate(0, 0) scale(1, 1)
+            }
+
+            10% {
+                transform: translate(0, 0) scale(1.2, 1.2)
+            }
+
+            80% {
+                transform: translate(0, 0) scale(1.1, 1.1)
+            }
+        }
+
+        @keyframes eblcmdzx16s847_ts__ts {
+
+            0%,
+            40% {
+                transform: translate(0, 0) scale(1, 1)
+            }
+
+            10% {
+                transform: translate(0, 0) scale(1.2, 1.2)
+            }
+
+            80% {
+                transform: translate(0, 0) scale(1.1, 1.1)
+            }
+        }
+
+        @keyframes eblcmdzx16s849_tr__tr {
+
+            0%,
+            70% {
+                transform: translate(0, 0) rotate(0deg);
+                animation-timing-function: cubic-bezier(.42, 0, .58, 1)
+            }
+
+            10%,
+            40%,
+            80% {
+                transform: translate(0, 0) rotate(2deg);
+                animation-timing-function: cubic-bezier(.42, 0, .58, 1)
+            }
+
+            20%,
+            60%,
+            90% {
+                transform: translate(0, 0) rotate(-2deg);
+                animation-timing-function: cubic-bezier(.42, 0, .58, 1)
+            }
+        }
+
+        @keyframes eblcmdzx16s852_tr__tr {
+
+            0%,
+            70% {
+                transform: translate(0, 0) rotate(0deg);
+                animation-timing-function: cubic-bezier(.42, 0, .58, 1)
+            }
+
+            10%,
+            40%,
+            80% {
+                transform: translate(0, 0) rotate(2deg);
+                animation-timing-function: cubic-bezier(.42, 0, .58, 1)
+            }
+
+            20%,
+            60%,
+            90% {
+                transform: translate(0, 0) rotate(-2deg);
+                animation-timing-function: cubic-bezier(.42, 0, .58, 1)
+            }
+        }
+
+        @keyframes eblcmdzx16s855_tr__tr {
+
+            0%,
+            70% {
+                transform: translate(0, 0) rotate(0deg);
+                animation-timing-function: cubic-bezier(.42, 0, .58, 1)
+            }
+
+            10%,
+            40%,
+            80% {
+                transform: translate(0, 0) rotate(2deg);
+                animation-timing-function: cubic-bezier(.42, 0, .58, 1)
+            }
+
+            20%,
+            60%,
+            90% {
+                transform: translate(0, 0) rotate(-2deg);
+                animation-timing-function: cubic-bezier(.42, 0, .58, 1)
+            }
+        }
+
+        @keyframes eblcmdzx16s858_tr__tr {
+
+            0%,
+            70% {
+                transform: translate(0, 0) rotate(0deg);
+                animation-timing-function: cubic-bezier(.42, 0, .58, 1)
+            }
+
+            10%,
+            40%,
+            80% {
+                transform: translate(0, 0) rotate(2deg);
+                animation-timing-function: cubic-bezier(.42, 0, .58, 1)
+            }
+
+            20%,
+            60%,
+            90% {
+                transform: translate(0, 0) rotate(-2deg);
+                animation-timing-function: cubic-bezier(.42, 0, .58, 1)
+            }
+        }
+
+        @keyframes eblcmdzx16s861_to__to {
+            0% {
+                transform: translate(0, 0)
+            }
+
+            20% {
+                transform: translate(10px, 0)
+            }
+
+            50% {
+                transform: translate(15px, 0)
+            }
+
+            80% {
+                transform: translate(5px, 0)
+            }
+        }
+
+        @keyframes eblcmdzx16s862_to__to {
+            0% {
+                transform: translate(0, 0)
+            }
+
+            20% {
+                transform: translate(10px, 0)
+            }
+
+            50% {
+                transform: translate(15px, 0)
+            }
+
+            80% {
+                transform: translate(5px, 0)
+            }
+        }
+
+        #eblcmdzx16s824_tr {
+            animation: eblcmdzx16s824_tr__tr 1000ms linear infinite normal forwards
+        }
+
+        #eblcmdzx16s831_to {
+            animation: eblcmdzx16s831_to__to 1000ms linear infinite normal forwards
+        }
+
+        #eblcmdzx16s838_tr {
+            animation: eblcmdzx16s838_tr__tr 1000ms linear infinite normal forwards
+        }
+
+        #eblcmdzx16s846_ts {
+            animation: eblcmdzx16s846_ts__ts 1000ms linear infinite normal forwards
+        }
+
+        #eblcmdzx16s847_ts {
+            animation: eblcmdzx16s847_ts__ts 1000ms linear infinite normal forwards
+        }
+
+        #eblcmdzx16s849_tr {
+            animation: eblcmdzx16s849_tr__tr 1000ms linear infinite normal forwards
+        }
+
+        #eblcmdzx16s852_tr {
+            animation: eblcmdzx16s852_tr__tr 1000ms linear infinite normal forwards
+        }
+
+        #eblcmdzx16s855_tr {
+            animation: eblcmdzx16s855_tr__tr 1000ms linear infinite normal forwards
+        }
+
+        #eblcmdzx16s858_tr {
+            animation: eblcmdzx16s858_tr__tr 1000ms linear infinite normal forwards
+        }
+
+        #eblcmdzx16s861_to {
+            animation: eblcmdzx16s861_to__to 1000ms linear infinite normal forwards
+        }
+
+        #eblcmdzx16s862_to {
+            animation: eblcmdzx16s862_to__to 1000ms linear infinite normal forwards
+        }
+    </style>
+    <defs>
+        <clipPath id="eblcmdzx16s82">
+            <path id="eblcmdzx16s83" fill="#000" fill-rule="evenodd" stroke="none" stroke-linecap="round"
+                stroke-miterlimit="10" stroke-width="1"
+                d="M370.970000,339.651000C370.970000,339.651000,439.252000,319.536000,489.999000,366.262000C499.172000,374.650000,513.433000,374.329000,521.821000,365.156000C530.210000,355.982000,529.889000,341.722000,520.657000,332.921000L437.395000,255.421000"
+                clip-rule="evenodd" />
+        </clipPath>
+        <clipPath id="eblcmdzx16s84">
+            <path id="eblcmdzx16s85" fill="#000" fill-rule="evenodd" stroke="none" stroke-linecap="round"
+                stroke-miterlimit="10" stroke-width="1"
+                d="M375.134000,348.323000L375.018000,347.498000L375.134000,348.323000L375.018000,347.498000L375.134000,348.323000C375.547000,348.265000,380.382000,346.744000,388.222000,345.642000C398.950000,344.134000,415.216000,343.111000,432.474000,346.155000C449.732000,349.200000,468.454000,356.667000,484.860000,371.612000C492.093000,378.170000,502.163000,380.962000,511.653000,379.628000C518.668000,378.643000,525.747000,375.123000,531.298000,369.715000C538.268000,362.424000,541.118000,352.766000,539.843000,343.689000C538.857000,336.674000,535.395000,330.008000,529.574000,324.515000L446.247000,249.548000C442.366000,245.886000,436.119000,246.343000,432.457000,250.224000C428.794000,254.105000,428.839000,260.410000,433.132000,264.014000L516.460000,338.980000C518.871000,341.166000,520.044000,343.526000,520.450000,346.414000C520.972000,350.128000,519.785000,353.661000,517.245000,356.542000C515.059000,358.953000,512.287000,360.184000,509.398000,360.590000C505.685000,361.112000,501.739000,359.984000,498.858000,357.443000C479.099000,339.603000,456.845000,330.949000,436.582000,327.485000C416.320000,324.021000,397.933000,324.922000,385.967000,326.604000C376.477000,327.938000,370.404000,329.633000,369.991000,329.691000C364.743000,331.270000,361.726000,336.743000,363.247000,341.578000C364.413000,346.884000,369.886000,349.902000,375.134000,348.323000"
+                clip-rule="evenodd" />
+        </clipPath>
+        <clipPath id="eblcmdzx16s86">
+            <path id="eblcmdzx16s87" fill="#000" fill-rule="evenodd" stroke="none" stroke-linecap="round"
+                stroke-miterlimit="10" stroke-width="1"
+                d="M277.119000,427.936000C277.119000,442.519000,265.452000,454.603000,250.869000,454.603000C236.286000,454.603000,224.619000,442.519000,224.619000,427.936000C224.619000,413.353000,212.952000,401.269000,198.369000,401.269000C183.786000,401.269000,172.119000,413.353000,172.119000,427.936000C172.119000,442.519000,160.452000,454.603000,145.869000,454.603000C131.286000,454.603000,119.619000,442.519000,119.619000,427.936000C119.619000,312.519000,212.119000,333.769000,212.119000,182.103000C211.702000,111.686000,268.369000,54.186000,338.369000,54.186000C408.369000,54.186000,465.036000,111.269000,465.036000,181.686000C465.036000,327.103000,382.536000,309.186000,382.536000,427.519000C382.536000,442.103000,370.869000,454.186000,356.286000,454.186000C341.702000,454.186000,330.036000,442.103000,330.036000,427.519000C330.036000,412.936000,318.369000,400.853000,303.786000,400.853000C288.786000,401.269000,277.119000,412.936000,277.119000,427.936000"
+                clip-rule="evenodd" />
+        </clipPath>
+        <clipPath id="eblcmdzx16s88">
+            <path id="eblcmdzx16s89" fill="#000" fill-rule="evenodd" stroke="none" stroke-linecap="round"
+                stroke-miterlimit="10" stroke-width="1"
+                d="M265.036000,430.436000C265.036000,435.019000,263.369000,439.186000,260.036000,442.103000C257.119000,445.019000,252.952000,447.103000,248.369000,447.103000C243.786000,447.103000,239.619000,445.436000,236.702000,442.103000C233.786000,439.186000,231.702000,435.019000,231.702000,430.436000C231.702000,410.436000,215.452000,393.769000,195.452000,393.769000C175.452000,393.769000,159.202000,410.019000,159.202000,430.436000C159.202000,435.019000,157.536000,439.186000,154.202000,442.103000C151.286000,445.019000,147.119000,447.103000,142.536000,447.103000C137.952000,447.103000,133.786000,445.436000,130.869000,442.103000C127.952000,439.186000,125.869000,435.019000,125.869000,430.436000C125.869000,402.936000,131.286000,384.186000,139.202000,369.186000C145.036000,357.519000,152.952000,347.936000,161.286000,337.519000C173.786000,322.103000,188.369000,305.853000,199.619000,282.103000C210.869000,258.353000,218.369000,227.519000,218.369000,183.769000C218.369000,151.269000,231.286000,121.686000,252.536000,100.019000C273.786000,78.769000,302.952000,65.436000,335.452000,65.436000C367.952000,65.436000,397.119000,78.769000,418.369000,100.019000C439.619000,121.269000,452.536000,150.853000,452.536000,183.769000C452.536000,219.186000,447.536000,244.186000,440.452000,263.769000C435.036000,278.353000,428.369000,290.019000,420.869000,300.853000C410.036000,317.103000,397.119000,331.686000,387.119000,351.686000C377.119000,371.269000,370.036000,395.853000,370.036000,430.436000C370.036000,435.019000,368.369000,439.186000,365.036000,442.103000C362.119000,445.019000,357.952000,447.103000,353.369000,447.103000C348.786000,447.103000,344.619000,445.436000,341.702000,442.103000C338.786000,439.186000,336.702000,435.019000,336.702000,430.436000C336.702000,410.436000,320.452000,393.769000,300.452000,393.769000C281.286000,393.769000,265.036000,410.019000,265.036000,430.436000L284.619000,430.436000C284.619000,425.853000,286.286000,421.686000,289.619000,418.769000C292.536000,415.853000,296.702000,413.769000,301.286000,413.769000C305.869000,413.769000,310.036000,415.436000,312.952000,418.769000C315.869000,421.686000,317.952000,425.853000,317.952000,430.436000C317.952000,450.436000,334.202000,467.103000,354.202000,467.103000C374.202000,467.103000,390.452000,450.853000,390.452000,430.436000C390.452000,402.103000,395.452000,382.519000,402.536000,366.269000C407.952000,354.186000,414.619000,344.186000,422.119000,333.769000C433.369000,317.936000,446.286000,301.686000,456.286000,278.769000C466.286000,255.436000,472.952000,225.853000,472.952000,184.186000C472.952000,107.936000,411.702000,46.269000,336.286000,46.269000C260.869000,46.269000,199.619000,107.936000,199.619000,184.186000C199.619000,221.269000,193.786000,247.103000,185.869000,266.686000C179.619000,281.686000,172.119000,293.353000,163.786000,304.186000C151.286000,320.436000,137.119000,334.603000,125.869000,353.769000C120.036000,363.353000,115.452000,374.186000,111.702000,386.686000C108.369000,399.186000,106.286000,413.769000,106.286000,430.853000C106.286000,450.853000,122.536000,467.519000,142.536000,467.519000C162.536000,467.519000,178.786000,451.269000,178.786000,430.853000C178.786000,426.269000,180.452000,422.103000,183.786000,419.186000C186.702000,416.269000,190.869000,414.186000,195.452000,414.186000C200.036000,414.186000,204.202000,415.853000,207.119000,419.186000C210.036000,422.103000,212.119000,426.269000,212.119000,430.853000C212.119000,450.853000,228.369000,467.519000,248.369000,467.519000C268.369000,467.519000,284.619000,451.269000,284.619000,430.853000"
+                clip-rule="evenodd" />
+        </clipPath>
+        <clipPath id="eblcmdzx16s810">
+            <path id="eblcmdzx16s811" fill="#000" fill-rule="evenodd" stroke="none" stroke-linecap="round"
+                stroke-miterlimit="10" stroke-width="1"
+                d="M293.533000,354.389000L291.995000,351.403000L293.533000,354.389000L291.995000,351.403000L293.533000,354.389000C293.533000,354.389000,306.404000,348.340000,324.290000,346.045000C333.058000,344.783000,343.574000,344.657000,353.880000,346.382000C364.187000,348.107000,375.211000,351.788000,386.043000,358.823000C399.322000,367.446000,417.190000,363.648000,425.813000,350.369000C434.437000,337.090000,430.639000,319.223000,417.360000,310.599000L337.686000,258.858000C333.144000,255.908000,327.380000,257.133000,324.430000,261.676000C321.480000,266.219000,322.705000,271.983000,327.248000,274.933000L406.921000,326.674000C411.115000,329.397000,412.340000,335.161000,409.616000,339.354000C406.893000,343.547000,401.129000,344.772000,396.936000,342.049000C383.657000,333.426000,369.961000,328.506000,356.877000,326.467000C337.539000,323.349000,319.653000,325.644000,306.745000,328.689000C293.838000,331.734000,285.683000,335.877000,285.106000,336C280.164000,338.255000,278.385000,344.055000,280.640000,348.997000C282.791000,354.866000,288.591000,356.645000,293.533000,354.389000"
+                clip-rule="evenodd" />
+        </clipPath>
+        <clipPath id="eblcmdzx16s812">
+            <path id="eblcmdzx16s813" fill="#000" fill-rule="evenodd" stroke="none" stroke-linecap="round"
+                stroke-miterlimit="10" stroke-width="1"
+                d="M777.702000,192.073000L777.494000,192.073000C772.536000,192.073000,768.786000,188.323000,768.786000,183.740000L768.786000,183.115000C768.786000,178.948000,765.869000,175.198000,761.702000,174.782000C757.119000,174.365000,752.952000,178.115000,752.952000,182.698000L752.952000,183.698000C752.952000,188.282000,749.202000,192.032000,744.619000,192.032000L743.994000,192.032000C739.827000,192.032000,736.077000,194.948000,735.661000,199.115000C735.244000,203.698000,738.994000,207.865000,743.577000,207.865000L744.619000,207.865000C749.202000,207.865000,752.952000,211.615000,752.952000,216.198000L752.952000,216.823000C752.952000,220.990000,755.869000,224.740000,760.036000,225.157000C764.619000,225.573000,768.786000,221.823000,768.786000,217.240000L768.786000,216.198000C768.786000,211.615000,772.536000,207.865000,777.119000,207.865000L778.119000,207.865000C782.702000,207.865000,786.452000,203.698000,786.036000,199.115000C785.619000,195.407000,781.869000,192.073000,777.702000,192.073000"
+                clip-rule="evenodd" />
+        </clipPath>
+        <clipPath id="eblcmdzx16s814">
+            <path id="eblcmdzx16s815" fill="#000" fill-rule="evenodd" stroke="none" stroke-linecap="round"
+                stroke-miterlimit="10" stroke-width="1"
+                d="M198.286000,25.407000L189.619000,25.407000C185.036000,25.407000,181.286000,21.657000,181.286000,17.073000L181.286000,8.365000C181.286000,4.198000,178.369000,0.448000,174.202000,0.032000C169.577000,-0.385000,165.411000,3.365000,165.411000,7.948000L165.411000,17.073000C165.411000,21.615000,161.702000,25.407000,157.077000,25.407000L148.411000,25.407000C144.244000,25.407000,140.494000,28.323000,140.077000,32.490000C139.661000,37.073000,143.411000,41.240000,147.994000,41.240000L157.077000,41.240000C161.661000,41.240000,165.411000,44.990000,165.411000,49.573000L165.411000,58.240000C165.411000,62.407000,168.369000,66.157000,172.536000,66.573000C177.119000,66.990000,181.286000,63.240000,181.286000,58.657000L181.286000,49.573000C181.286000,44.990000,185.036000,41.240000,189.619000,41.240000L198.702000,41.240000C203.286000,41.240000,207.036000,37.073000,206.619000,32.490000C206.202000,28.740000,202.452000,25.407000,198.286000,25.407000"
+                clip-rule="evenodd" />
+        </clipPath>
+        <clipPath id="eblcmdzx16s816">
+            <path id="eblcmdzx16s817" fill="#000" fill-rule="evenodd" stroke="none" stroke-linecap="round"
+                stroke-miterlimit="10" stroke-width="1"
+                d="M605.036000,454.157000L324.619000,454.157000C312.536000,454.157000,302.536000,444.573000,302.536000,432.490000L302.536000,429.573000C302.536000,417.907000,312.536000,407.907000,324.619000,407.907000L605.452000,407.907000C617.536000,407.907000,627.536000,417.490000,627.536000,429.573000L627.536000,432.490000C627.536000,444.573000,617.536000,454.157000,605.036000,454.157000"
+                clip-rule="evenodd" />
+        </clipPath>
+        <clipPath id="eblcmdzx16s818">
+            <path id="eblcmdzx16s819" fill="#000" fill-rule="evenodd" stroke="none" stroke-linecap="round"
+                stroke-miterlimit="10" stroke-width="1"
+                d="M442.536000,454.157000L324.619000,454.157000C312.536000,454.157000,302.536000,444.573000,302.536000,432.490000L302.536000,429.573000C302.536000,417.907000,312.536000,407.907000,324.619000,407.907000L442.952000,407.907000C455.036000,407.907000,465.036000,417.490000,465.036000,429.573000L465.036000,432.490000C465.036000,444.573000,455.036000,454.157000,442.536000,454.157000"
+                clip-rule="evenodd" />
+        </clipPath>
+        <clipPath id="eblcmdzx16s820">
+            <path id="eblcmdzx16s821" fill="#000" fill-rule="evenodd" stroke="none" stroke-linecap="round"
+                stroke-miterlimit="10" stroke-width="1"
+                d="M651.702000,454.157000L490.869000,454.157000C476.702000,454.157000,464.619000,442.490000,464.619000,428.323000L501.286000,284.573000C505.452000,270.407000,518.369000,258.740000,532.536000,258.740000L693.369000,258.740000C707.536000,258.740000,717.119000,269.573000,714.202000,284.573000L677.536000,428.323000C673.369000,442.907000,666.286000,454.157000,651.702000,454.157000"
+                clip-rule="evenodd" />
+        </clipPath>
+        <clipPath id="eblcmdzx16s822">
+            <path id="eblcmdzx16s823" fill="#000" fill-rule="evenodd" stroke="none" stroke-linecap="round"
+                stroke-miterlimit="10" stroke-width="1"
+                d="M597.119000,374.990000L595.036000,374.990000C585.452000,374.990000,577.536000,367.073000,577.536000,357.490000L577.536000,355.407000C577.536000,345.823000,585.452000,337.907000,595.036000,337.907000L597.119000,337.907000C606.702000,337.907000,614.619000,345.823000,614.619000,355.407000L614.619000,357.490000C615.036000,367.073000,607.119000,374.990000,597.119000,374.990000"
+                clip-rule="evenodd" />
+        </clipPath>
+    </defs>
+    <g id="eblcmdzx16s824_tr" transform="translate(0,0) rotate(4)">
+        <g id="eblcmdzx16s824" clip-rule="evenodd" transform="translate(0,0)">
+            <g id="eblcmdzx16s825" clip-rule="evenodd">
+                <g id="eblcmdzx16s826" clip-path="url(#eblcmdzx16s82)" clip-rule="evenodd">
+                    <path id="eblcmdzx16s827" fill="#FFF" fill-rule="evenodd" stroke="none" stroke-linecap="round"
+                        stroke-miterlimit="10" stroke-width="1"
+                        d="M531.046000,221.221000L337.119000,248.475000L360.314000,413.520000L554.241000,386.266000L531.046000,221.221000Z"
+                        clip-rule="evenodd" />
+                </g>
+            </g>
+            <g id="eblcmdzx16s828" clip-rule="evenodd">
+                <g id="eblcmdzx16s829" clip-path="url(#eblcmdzx16s84)" clip-rule="evenodd">
+                    <path id="eblcmdzx16s830" fill="#1D2945" fill-rule="evenodd" stroke="none" stroke-linecap="round"
+                        stroke-miterlimit="10" stroke-width="1"
+                        d="M542.265000,211.229000L327.707000,241.383000L353.221000,422.932000L567.780000,392.779000L542.265000,211.229000Z"
+                        clip-rule="evenodd" />
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="eblcmdzx16s831_to" transform="translate(0,0)">
+        <g id="eblcmdzx16s831" clip-rule="evenodd" transform="translate(0,0)">
+            <g id="eblcmdzx16s832" clip-rule="evenodd">
+                <g id="eblcmdzx16s833" clip-path="url(#eblcmdzx16s86)" clip-rule="evenodd">
+                    <rect id="eblcmdzx16s834" width="387.5" height="441.667" fill="#FFF" fill-rule="evenodd"
+                        stroke="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" clip-rule="evenodd"
+                        rx="0" ry="0" transform="matrix(1 0 0 1 98.36900000000000 33.35300000000000)" />
+                </g>
+            </g>
+            <g id="eblcmdzx16s835" clip-rule="evenodd">
+                <g id="eblcmdzx16s836" clip-path="url(#eblcmdzx16s88)" clip-rule="evenodd">
+                    <rect id="eblcmdzx16s837" width="408.333" height="462.5" fill="#1D2945" fill-rule="evenodd"
+                        stroke="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" clip-rule="evenodd"
+                        rx="0" ry="0" transform="matrix(1 0 0 1 85.86900000000000 25.01900000000000)" />
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="eblcmdzx16s838_tr" transform="translate(0,0) rotate(5)">
+        <g id="eblcmdzx16s838" clip-rule="evenodd" transform="translate(0,0)">
+            <path id="eblcmdzx16s839" fill="#FFF" stroke="none" stroke-linecap="round" stroke-miterlimit="10"
+                stroke-width="1"
+                d="M283.277000,347.232000L281.035000,333.853000L326.213000,265.815000L412.104000,315.632000L421.789000,332.851000L412.870000,350.410000L391.980000,352.742000L323.501000,338.080000L297.582000,345.095000L283.277000,347.232000Z"
+                clip-rule="evenodd" />
+            <g id="eblcmdzx16s840" clip-path="url(#eblcmdzx16s810)" clip-rule="evenodd">
+                <path id="eblcmdzx16s841" fill="#1D2945" fill-rule="evenodd" stroke="none" stroke-linecap="round"
+                    stroke-miterlimit="10" stroke-width="1"
+                    d="M322.947000,224.942000L241.251000,350.743000L388.018000,446.055000L469.714000,320.254000L322.947000,224.942000Z"
+                    clip-rule="evenodd" />
+            </g>
+        </g>
+    </g>
+    <g id="eblcmdzx16s842" clip-path="url(#eblcmdzx16s812)" clip-rule="evenodd">
+        <rect id="eblcmdzx16s843" width="108.333" height="108.333" fill="#9D9FA2" fill-rule="evenodd" stroke="none"
+            stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" clip-rule="evenodd" rx="0" ry="0"
+            transform="matrix(1 0 0 1 706.70200000000000 145.82300000000001)" />
+    </g>
+    <g id="eblcmdzx16s844" clip-path="url(#eblcmdzx16s814)" clip-rule="evenodd">
+        <rect id="eblcmdzx16s845" width="108.333" height="108.333" fill="#4AA3EB" fill-rule="evenodd" stroke="none"
+            stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" clip-rule="evenodd" rx="0" ry="0"
+            transform="matrix(1 0 0 1 119.20200000000000 -20.84300000000000)" />
+    </g>
+    <g id="eblcmdzx16s846_ts" transform="translate(0,0) scale(1,1)">
+        <circle id="eblcmdzx16s846" r="16.875" fill="#1D2945" fill-rule="evenodd" stroke="none" stroke-linecap="round"
+            stroke-miterlimit="10" stroke-width="1" clip-rule="evenodd" transform="translate(408.723000,186.657000)" />
+    </g>
+    <g id="eblcmdzx16s847_ts" transform="translate(0,0) scale(1,1)">
+        <path id="eblcmdzx16s847" fill="#1D2945" fill-rule="evenodd" stroke="none" stroke-linecap="round"
+            stroke-miterlimit="10" stroke-width="1"
+            d="M368.223000,186.657000C368.223000,196.107000,360.798000,203.532000,351.348000,203.532000C341.898000,203.532000,334.473000,196.107000,334.473000,186.657000C334.473000,177.207000,341.898000,169.782000,351.348000,169.782000C360.798000,169.782000,368.223000,177.207000,368.223000,186.657000Z"
+            clip-rule="evenodd" transform="translate(0,0)" />
+    </g>
+    <circle id="eblcmdzx16s848" r="18.551" fill="#9329D1" fill-rule="evenodd" stroke="none" stroke-linecap="round"
+        stroke-miterlimit="10" stroke-width="1" clip-rule="evenodd"
+        transform="matrix(1 0 0 1 90.45200000000000 233.74000000000001)" />
+    <g id="eblcmdzx16s849_tr" transform="translate(0,0) rotate(0)">
+        <g id="eblcmdzx16s849" clip-rule="evenodd" transform="translate(0,0)">
+            <g id="eblcmdzx16s850" clip-path="url(#eblcmdzx16s816)" clip-rule="evenodd">
+                <rect id="eblcmdzx16s851" width="366.667" height="87.5" fill="#1DCB8B" fill-rule="evenodd" stroke="none"
+                    stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" clip-rule="evenodd" rx="0" ry="0"
+                    transform="matrix(1 0 0 1 281.70200000000000 387.49000000000001)" />
+            </g>
+        </g>
+    </g>
+    <g id="eblcmdzx16s852_tr" transform="translate(0,0) rotate(0)">
+        <g id="eblcmdzx16s852" clip-rule="evenodd" transform="skewX(3) skewY(0) translate(0,0)">
+            <g id="eblcmdzx16s853" clip-path="url(#eblcmdzx16s818)" clip-rule="evenodd">
+                <rect id="eblcmdzx16s854" width="204.167" height="87.5" fill="#11A569" fill-rule="evenodd" stroke="none"
+                    stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" clip-rule="evenodd" rx="0" ry="0"
+                    transform="matrix(1 0 0 1 281.70200000000000 387.49000000000001)" />
+            </g>
+        </g>
+    </g>
+    <g id="eblcmdzx16s855_tr" transform="translate(0,0) rotate(0)">
+        <g id="eblcmdzx16s855" clip-rule="evenodd" transform="skewX(3) skewY(0) translate(0,0)">
+            <g id="eblcmdzx16s856" clip-path="url(#eblcmdzx16s820)" clip-rule="evenodd">
+                <rect id="eblcmdzx16s857" width="291.667" height="237.5" fill="#1DCB8B" fill-rule="evenodd"
+                    stroke="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" clip-rule="evenodd"
+                    rx="0" ry="0" transform="matrix(1 0 0 1 444.20200000000000 237.49000000000001)" />
+            </g>
+        </g>
+    </g>
+    <g id="eblcmdzx16s858_tr" transform="translate(0,0) rotate(0)">
+        <g id="eblcmdzx16s858" clip-rule="evenodd" transform="skewX(3) skewY(0) translate(0,0)">
+            <g id="eblcmdzx16s859" clip-path="url(#eblcmdzx16s822)" clip-rule="evenodd">
+                <rect id="eblcmdzx16s860" width="79.167" height="79.167" fill="#1D2945" fill-rule="evenodd"
+                    stroke="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" clip-rule="evenodd"
+                    rx="0" ry="0" transform="matrix(1 0 0 1 556.70200000000000 316.65699999999998)" />
+            </g>
+        </g>
+    </g>
+    <g id="eblcmdzx16s861_to" transform="translate(0,0)">
+        <path id="eblcmdzx16s861" fill="none" stroke="#D6D7DA" stroke-linecap="round" stroke-miterlimit="10"
+            stroke-width="31.72" d="M320.697000,515.823000L159.375000,515.823000" clip-rule="evenodd"
+            transform="translate(0,0)" />
+    </g>
+    <g id="eblcmdzx16s862_to" transform="translate(0,0)">
+        <path id="eblcmdzx16s862" fill="none" stroke="#D6D7DA" stroke-linecap="round" stroke-miterlimit="10"
+            stroke-width="35.04" d="M445.661000,515.823000L642.744000,515.823000" clip-rule="evenodd"
+            transform="translate(0,0)" />
+    </g>
+</svg>

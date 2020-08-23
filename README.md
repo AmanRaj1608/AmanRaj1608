@@ -18,31 +18,29 @@
    <a/>
 </p>
 
-<img src="https://66.media.tumblr.com/3c350e7134b99e7415c6d292210bc40d/tumblr_oznke6EemG1uuj1vto1_400.gifv" width="250" align='right'>
+<img src="./assets/code.svg" width="300" align='right'>
 
+---
 
--------
--  ⚡ I am Aman, a third-year student at IIITV studying Computer Science and Engineering. 
--  🎓 I mostly do Full-stack development but being a computer science enthusiast I am constantly exploring other fields too.
--  🤖 These days I am learning Machine Learning in JavaScript ( https://bri.im/learn )
--  🌊 I mostly write JavaScript for dev and C++ for competitive programming
--  😋 Besides programming, I love watching Anime and reading Manga.
+- ⚡ I am Aman, a third-year student at IIITV studying Computer Science and Engineering.
+- 🎓 I mostly do Full-stack development but being a computer science enthusiast I am constantly exploring other fields too.
+- 🤖 These days I am learning Machine Learning in JavaScript ( https://bri.im/learn )
+- 🌊 I mostly write JavaScript for dev and C++ for competitive programming
+- 😋 Besides programming, I love watching Anime and reading Manga.
 
 <br />
 
 ### <img align='left' src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif" width="50"> Languages and Tools:
 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][Aman]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][Aman]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][Aman]
-[<img align="left" alt="Next JS" width="26px" src="https://user-images.githubusercontent.com/42104907/89409062-1268f000-d73f-11ea-9791-82fdb2dbd30c.png" />][Aman]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][aman]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][aman]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][aman]
+[<img align="left" alt="Next JS" width="26px" src="https://user-images.githubusercontent.com/42104907/89409062-1268f000-d73f-11ea-9791-82fdb2dbd30c.png" />][aman]
 
-
-[Aman]: https://twitter.com/amanraj1608
+[aman]: https://twitter.com/amanraj1608
 
 <br />
 <br />
-
 
 <a href="https://www.linkedin.com/in/amanraj1608">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amanraj1608&hide_border=true&show_icons=true&include_all_commits=true" alt="Anurag's github stats" />
@@ -51,15 +49,18 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanraj1608&hide=html,css&layout=compact" />
 </a>
 
--------
+---
+
 📊 **Weekly development breakdown**
+
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   31 mins         ████████████████████████▒   97.32 % 
-YAML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+JavaScript   31 mins         ████████████████████████▒   97.32 %
+YAML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
-<!--END_SECTION:waka-->
--------
+
+## <!--END_SECTION:waka-->
