@@ -18,7 +18,7 @@
    <a/>
 </p>
 
-<img src="assets/code.svg" width="320" align='right'>
+<img src="https://github.com/AmanRaj1608/AmanRaj1608/blob/master/assets/code.svg" width="320" align='right'>
 
 ---
 
