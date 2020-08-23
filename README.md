@@ -18,7 +18,7 @@
    <a/>
 </p>
 
-<img src="./assets/code.svg" width="300" align='right'>
+<img src="assets/code.svg" width="320" align='right'>
 
 ---
 
