@@ -1,5 +1,6 @@
-## Hello , I'm [Aman](https://amanraj.me) 👋🏻
-
+<h2> Hello , I'm <a href="https://amanraj.me">Aman-kun</a> <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="50"> </h2>
+<p><em>My blog <a href="https://aman-ki-baat.vercel.app/">Aman-Ki-Baat</a> </em></p>
+<br />
 <p >
   <a href="https://twitter.com/AmanRaj1608">
     <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AmanRaj1608">
@@ -28,20 +29,20 @@
 - 🌊 I mostly write JavaScript for dev and C++ for competitive programming
 - 😋 Besides programming, I love watching Anime and reading Manga.
 
-### <img align='left' src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif" width="50"> Languages and Tools:
+#### <img align='left' src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif" width="50"> Languages and Tools:
 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][aman]
-[<img align="left" alt="Next JS" width="26px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />][aman]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][aman]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][aman]
-
-[aman]: https://twitter.com/amanraj1608
+<p align="center"> 
+  <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img align="left" alt="Next JS" width="26px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
+  <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+  <img align="left" alt="React" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" />
+</p>
 
 <br />
 <br />
 
 <details>
-  <summary>📊 Github Stats</summary>
+  <summary><img align='left' src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif" width="50"><b>Github Stats 📊</b></summary>
   <p align="center"> 
     <a href="https://amanraj1608.vercel.app/">
       <img 
@@ -50,19 +51,18 @@
        alt="Aman's github stats" 
       />
     </a>
+    <!-- 
     <a href="https://amanraj1608.vercel.app/">
       <img 
        align="center" 
        src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amanraj1608&layout=compact&theme=material-palenight" 
        alt="Aman's github stats" 
       />
-    </a>
+    </a> -->
   </p>
 </details>
 
-<details>
-  <summary>📊 Weekly development breakdown</summary>
- 
+#### <img align='left' src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif" width="50">Weekly development breakdown 📊 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <!--START_SECTION:waka-->
 ```text
 JavaScript   2 hrs 40 mins   ████████░░░░░░░░░░░░░░░░░   32.39 % 
@@ -72,7 +72,5 @@ TypeScript   39 mins         ██░░░░░░░░░░░░░░░
 JSON         32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
 ```
 <!--END_SECTION:waka-->
-
-</details>
 
 <h3 align="center"><a href="https://amanraj.me/thanks">Thanks &nbsp;❤️&nbsp;!</a></h3>
