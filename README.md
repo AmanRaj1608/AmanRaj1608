@@ -1,17 +1,17 @@
-## Hello Hello , I'm [Aman!](http://amanraj1608.netlify.app/) 👋🏻
+## Hello , I'm [Aman](https://amanraj.me) 👋🏻
 
 <p >
   <a href="https://twitter.com/AmanRaj1608">
-    <img src="https://img.shields.io/badge/-@AmanRaj1608-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AmanRaj1608">
+    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AmanRaj1608">
    <a/>
   <a href="https://stackoverflow.com/users/11097431/aman-raj">
-    <img src="https://img.shields.io/badge/-AmanRaj1608-f48024?style=flat-square&labelColor=f48024&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/11097431/aman-raj">
+    <img src="https://img.shields.io/badge/-StackOverflow-f48024?style=flat-square&labelColor=f48024&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/11097431/aman-raj">
    <a/>
   <a href="https://www.linkedin.com/in/amanraj1608/">
-    <img src="https://img.shields.io/badge/-AmanRaj1608-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanraj1608/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanraj1608/">
   <a/>
    <a href="mailto:archanaamanraj@gmail.com">
-    <img src="https://img.shields.io/badge/-archanaamanraj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:archanaamanraj@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:archanaamanraj@gmail.com">
    <a/>
    <!--  <a href="https://github.com/AmanRaj1608/AmanRaj1608"> 
     <img src="http://okokcoolokok.glitch.me/badge?page_id=AmanRaj1608.AmanRaj1608"> -->
@@ -40,19 +40,31 @@
 [aman]: https://twitter.com/amanraj1608
 
 <br />
-<br />
 
-<a href="https://www.linkedin.com/in/amanraj1608">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amanraj1608&hide_border=true&show_icons=true&include_all_commits=true" alt="Anurag's github stats" />
-</a>
-<a href="https://twitter.com/AmanRaj1608">
+--- 
+
+<details>
+  <summary>📊 Github Stats</summary>
+  <p align="center"> 
+    <a href="https://amanraj1608.vercel.app/">
+      <img 
+       align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=amanraj1608&hide_border=true&show_icons=true&include_all_commits=true&theme=gotham" 
+       alt="Aman's github stats" 
+      />
+    </a>
+  </p>
+</details>
+<!--
+<a href="https://amanraj1608.vercel.app/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanraj1608&hide=html,css&layout=compact" />
 </a>
+-->
 
----
 
-📊 **Weekly development breakdown**
-
+<details>
+  <summary>📊 Weekly development breakdown</summary>
+ 
 <!--START_SECTION:waka-->
 ```text
 JavaScript   2 hrs 4 mins    █████████████░░░░░░░░░░░░   51.53 % 
@@ -61,3 +73,11 @@ TypeScript   30 mins         ███▒░░░░░░░░░░░░░
 JSON         18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
 ```
 <!--END_SECTION:waka-->
+
+</details>
+
+
+<br />
+<br />
+
+<h3 align="center"><a href="https://amanraj.me/thanks">Thanks &nbsp;❤️&nbsp;!</a></h3>
