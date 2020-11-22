@@ -28,8 +28,6 @@
 - 🌊 I mostly write JavaScript for dev and C++ for competitive programming
 - 😋 Besides programming, I love watching Anime and reading Manga.
 
-<br />
-
 ### <img align='left' src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif" width="50"> Languages and Tools:
 
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][aman]
@@ -38,10 +36,6 @@
 [<img align="left" alt="Next JS" width="26px" src="https://user-images.githubusercontent.com/42104907/89409062-1268f000-d73f-11ea-9791-82fdb2dbd30c.png" />][aman]
 
 [aman]: https://twitter.com/amanraj1608
-
-<br />
-
---- 
 
 <details>
   <summary>📊 Github Stats</summary>
@@ -55,12 +49,6 @@
     </a>
   </p>
 </details>
-<!--
-<a href="https://amanraj1608.vercel.app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanraj1608&hide=html,css&layout=compact" />
-</a>
--->
-
 
 <details>
   <summary>📊 Weekly development breakdown</summary>
@@ -76,8 +64,5 @@ JSON         18 mins         ██░░░░░░░░░░░░░░░
 
 </details>
 
-
 <br />
-<br />
-
 <h3 align="center"><a href="https://amanraj.me/thanks">Thanks &nbsp;❤️&nbsp;!</a></h3>
