@@ -31,11 +31,14 @@
 ### <img align='left' src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif" width="50"> Languages and Tools:
 
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][aman]
+[<img align="left" alt="Next JS" width="26px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />][aman]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][aman]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][aman]
-[<img align="left" alt="Next JS" width="26px" src="https://user-images.githubusercontent.com/42104907/89409062-1268f000-d73f-11ea-9791-82fdb2dbd30c.png" />][aman]
 
 [aman]: https://twitter.com/amanraj1608
+
+<br />
+<br />
 
 <details>
   <summary>📊 Github Stats</summary>
@@ -43,7 +46,14 @@
     <a href="https://amanraj1608.vercel.app/">
       <img 
        align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=amanraj1608&hide_border=true&show_icons=true&include_all_commits=true&theme=gotham" 
+       src="https://github-readme-stats.vercel.app/api?username=amanraj1608&hide_border=true&show_icons=true&include_all_commits=true&theme=material-palenight" 
+       alt="Aman's github stats" 
+      />
+    </a>
+    <a href="https://amanraj1608.vercel.app/">
+      <img 
+       align="center" 
+       src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amanraj1608&layout=compact&theme=material-palenight" 
        alt="Aman's github stats" 
       />
     </a>
@@ -65,5 +75,4 @@ JSON         32 mins         █▓░░░░░░░░░░░░░░░
 
 </details>
 
-<br />
 <h3 align="center"><a href="https://amanraj.me/thanks">Thanks &nbsp;❤️&nbsp;!</a></h3>
