@@ -1,6 +1,4 @@
-<h2> Hello , I'm <a href="https://amanraj.me">Aman-kun</a> <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="50"> </h2>
-<p><em>My blog <a href="https://aman-ki-baat.vercel.app/">Aman-Ki-Baat</a> </em></p>
-<br />
+<h2><em> Hello , I'm <a href="https://amanraj.me">Aman-kun</a> <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="70"></em> </h2>
 <p >
   <a href="https://twitter.com/AmanRaj1608">
     <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AmanRaj1608">
@@ -17,6 +15,10 @@
    <!--  <a href="https://github.com/AmanRaj1608/AmanRaj1608"> 
     <img src="http://okokcoolokok.glitch.me/badge?page_id=AmanRaj1608.AmanRaj1608"> -->
    <a/>
+   <a href="https://aman-ki-baat.vercel.app/">
+    <img src="https://img.shields.io/badge/-Aman--Ki--Baat-31326f">
+   <a/>
+
 </p>
 
 <img src="https://github.com/AmanRaj1608/AmanRaj1608/blob/master/assets/code.svg" width="320" align='right'>
@@ -41,28 +43,17 @@
 <br />
 <br />
 
-<details>
-  <summary><img align='left' src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif" width="50"><b>Github Stats 📊</b></summary>
-  <p align="center"> 
-    <a href="https://amanraj1608.vercel.app/">
-      <img 
-       align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=amanraj1608&hide_border=true&show_icons=true&include_all_commits=true&theme=material-palenight" 
-       alt="Aman's github stats" 
-      />
-    </a>
-    <!-- 
-    <a href="https://amanraj1608.vercel.app/">
-      <img 
-       align="center" 
-       src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amanraj1608&layout=compact&theme=material-palenight" 
-       alt="Aman's github stats" 
-      />
-    </a> -->
-  </p>
-</details>
+#### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">  Github Stats 📊
 
-#### <img align='left' src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif" width="50">Weekly development breakdown 📊 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  <a href="https://amanraj1608.vercel.app/">
+    <img 
+     src="https://github-readme-stats.vercel.app/api?username=amanraj1608&hide_border=true&show_icons=true&include_all_commits=true&theme=material-palenight" 
+     alt="Aman's github stats" 
+     width="400"
+    />
+  </a>
+
+#### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">  Weekly development breakdown 📊 
 <!--START_SECTION:waka-->
 ```text
 JSX          3 hrs 31 mins   ████████░░░░░░░░░░░░░░░░░   32.23 % 
