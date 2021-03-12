@@ -1,4 +1,4 @@
-<h2><em> Hello , I'm <a href="https://amanraj.me">Aman-kun</a> <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="70"></em> </h2>
+<h2><em> Hello , I'm <a href="https://amanraj.dev">Aman-kun</a> <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="70"></em> </h2>
 <p >
   <a href="https://twitter.com/AmanRaj1608">
     <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AmanRaj1608">
@@ -27,8 +27,8 @@
 
 - ⚡ I am Aman, a third-year student at IIITV studying Computer Science and Engineering.
 - 🎓 I mostly do Full-stack development but being a computer science enthusiast I am constantly exploring other fields too.
-- 🤖 These days I am learning Machine Learning in JavaScript ( https://bri.im/learn )
-- 🌊 I mostly write JavaScript for dev and C++ for competitive programming
+- 🏗️ Into Blockchain since late 2020.
+- 🌊 I mostly write JavaScript for dev and C++ for competitive programming.
 - 😋 Besides programming, I love watching Anime and reading Manga.
 
 #### <img align='left' src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif" width="50"> Languages and Tools:
