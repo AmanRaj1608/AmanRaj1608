@@ -63,6 +63,6 @@ Other        24 mins         ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<p align="center"><a href="https://amanraj.me/thanks">Thanks &nbsp;❤️&nbsp;!</a></p>
+<p align="center"><a href="https://amanraj.dev/thanks">Thanks &nbsp;❤️&nbsp;!</a></p>
 
-<!-- [Thanks ❤️!](https://amanraj.me/thanks) -->
+<!-- [Thanks ❤️!](https://amanraj.dev/thanks) -->
