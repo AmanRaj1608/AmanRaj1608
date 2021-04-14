@@ -1,5 +1,5 @@
 <!-- <h2><em> Hello , I'm <a href="https://amanraj.dev">Aman-kun</a> <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="70"></em> </h2> -->
-Hey there, I'm AmanRaj1608 here
+Hey there, AmanRaj1608 here
 
 <p>
   <a href="https://twitter.com/AmanRaj1608">
