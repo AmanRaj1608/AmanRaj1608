@@ -1,6 +1,3 @@
-<!-- <h2><em> Hello , I'm <a href="https://amanraj.dev">Aman-kun</a> <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="70"></em> </h2> -->
-Hey there, AmanRaj1608 here
-
 <p>
   <a href="https://twitter.com/AmanRaj1608">
     <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AmanRaj1608">
@@ -14,27 +11,23 @@ Hey there, AmanRaj1608 here
    <a href="mailto:archanaamanraj@gmail.com">
     <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:archanaamanraj@gmail.com">
    <a/>
-<!--     <a href="https://github.com/AmanRaj1608/AmanRaj1608"> 
-    <img src="http://okokcoolokok.glitch.me/badge?page_id=AmanRaj1608.AmanRaj1608">
-   <a/> -->
-<!--    <a href="https://aman-ki-baat.vercel.app/">
+   <a href="http://blog.amanraj.dev/">
     <img src="https://img.shields.io/badge/-Aman--Ki--Baat-31326f">
-   <a/> -->
+   <a/>
 </p>
 
-<!-- <img src="https://github.com/AmanRaj1608/AmanRaj1608/blob/master/assets/code.svg" width="320" align='right'> -->
-<!-- - 🎓 I mostly do Full-stack development but being a computer science enthusiast I am constantly exploring other fields too. -->
+---
+
+- 🎓 I'm final-year undergraduate in Computer Science and Engineering at IIIT India.
+- 🏗️ Working as Blockchain security intern at Certik. Previously worked as SDE Intern at Polygon(Matic Network).
+- ⚡ Won several hackathons like [Neo Frontier](https://devpost.com/software/dclubhouse), [Harmony One](https://medium.com/harmony-one/winners-of-the-hack-the-horizon-hackathon-ae04f95b71ab), [Cosmos HackAtom India](https://www.hackerearth.com/challenges/hackathon/hackatom-india/), [Ocean DEC](https://devpost.com/software/oceancaller), and many more.
+- 🌊 I am proficient in working with TypeScript, Go. Learning Rust.
+- 🗾 Besides programming, I love watching Anime and reading Manga.
+<!-- - ⚡ I mostly write JavaScript for dev and C++ for competitive programming (not active now). -->
 
 ---
 
-- 🎓 I'm third-year student at IIITV studying Computer Science and Engineering.
-- 🏗️ Into Blockchain since late 2020. Working as SDE Intern at Polygon (prev Matic Network).
-- ⚡ I mostly write JavaScript for dev and C++ for competitive programming (not active now).
-- 🌊 Besides programming, I love watching Anime and reading Manga 🗾.
-
----
-
- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Github Stats 📊
+<!--  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Github Stats 📊
  
   <p align="center">
       <img
@@ -45,7 +38,7 @@ Hey there, AmanRaj1608 here
         height="160em"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanraj1608&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"
       />
-  </p>
+  </p> -->
 
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Weekly development breakdown 📊 
 <!--START_SECTION:waka-->
@@ -57,6 +50,6 @@ JSON         2 mins          █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<p align="center"><a href="https://amanraj.dev/thanks">Thanks &nbsp;❤️&nbsp;!</a></p>
+<!-- <p align="center"><a href="https://amanraj.dev/thanks">Thanks &nbsp;❤️&nbsp;!</a></p> -->
 
-<!-- [Thanks ❤️!](https://amanraj.dev/thanks) -->
+[Thanks ❤️](https://amanraj.dev/thanks)
