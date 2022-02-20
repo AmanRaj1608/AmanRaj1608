@@ -43,8 +43,6 @@
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Weekly development breakdown 📊 
 <!--START_SECTION:waka-->
 ```text
-Total: 11 hrs 40 mins
-
 TypeScript   10 hrs 7 mins   █████████████████████▓░░░   86.72 % 
 Go           45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
 JSON         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
