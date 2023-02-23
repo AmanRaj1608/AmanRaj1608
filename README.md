@@ -44,9 +44,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   7 hrs 26 mins   █████████████░░░░░░░░░░░░   52.61 %
-Solidity     6 hrs 8 mins    ███████████░░░░░░░░░░░░░░   43.41 %
-Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Solidity     9 hrs 19 mins   █████████████░░░░░░░░░░░░   52.61 %
+TypeScript   7 hrs 50 mins   ███████████░░░░░░░░░░░░░░   44.22 %
+Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 ```
 
 <!--END_SECTION:waka-->
