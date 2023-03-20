@@ -43,6 +43,10 @@
 <!--START_SECTION:waka-->
 
 ```text
+From: 12 March 2023 - To: 19 March 2023
+
+Total Time: 24 hrs 3 mins
+
 TypeScript   13 hrs 26 mins  ██████████████░░░░░░░░░░░   55.85 %
 Solidity     6 hrs 39 mins   ███████░░░░░░░░░░░░░░░░░░   27.64 %
 JSON         1 hr 36 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
