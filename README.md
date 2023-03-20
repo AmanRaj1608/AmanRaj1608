@@ -18,11 +18,10 @@
 
 ---
 
-- 🎓 I'm final-year undergraduate in Computer Science and Engineering at IIIT India.
-- 🏗️ Working as Blockchain security intern at Certik. Previously worked as SDE Intern at Polygon(Matic Network).
-- ⚡ Won several hackathons like [Neo Frontier](https://devpost.com/software/dclubhouse), [Harmony One](https://medium.com/harmony-one/winners-of-the-hack-the-horizon-hackathon-ae04f95b71ab), [Cosmos HackAtom India](https://www.hackerearth.com/challenges/hackathon/hackatom-india/), [Ocean DEC](https://devpost.com/software/oceancaller), and many more.
+- 🏗️ Blockchain Engineer with experience in developing and auditing projects on various blockchain platforms.
+- ⚡ Won several hackathons like [Encode x NEAR](https://medium.com/encode-club/encode-x-near-hackathon-finale-prizewinners-and-summary-fcf6e409ab07), [Algorand Innovate](https://algorand-innovate.hackerearth.com), [Harmony One](https://medium.com/harmony-one/winners-of-the-hack-the-horizon-hackathon-ae04f95b71ab), [Cosmos HackAtom India](https://www.hackerearth.com/challenges/hackathon/hackatom-india/), and many more.
 - 🌊 I am proficient in working with TypeScript, Go. Learning Rust.
-- 🗾 Besides programming, I love watching Anime and reading Manga.
+- 🍣 Besides programming, I love watching Anime and reading Manga.
 <!-- - ⚡ I mostly write JavaScript for dev and C++ for competitive programming (not active now). -->
 
 ---
@@ -56,4 +55,4 @@ TSConfig     11 mins         ▒░░░░░░░░░░░░░░░░
 
 <!-- <p align="center"><a href="https://amanraj.dev/thanks">Thanks &nbsp;❤️&nbsp;!</a></p> -->
 
-[Thanks ❤️](https://amanraj.dev/thanks)
+<!-- [Thanks ❤️](https://amanraj.dev/thanks) -->
