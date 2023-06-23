@@ -43,15 +43,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 June 2023 - To: 21 June 2023
+From: 15 June 2023 - To: 22 June 2023
 
-Total Time: 9 hrs 17 mins
+Total Time: 9 hrs 27 mins
 
-TypeScript   7 hrs 36 mins   ████████████████████▒░░░░   81.87 %
-JSON         44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
-Bash         26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-YAML         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-Solidity     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+TypeScript   7 hrs 56 mins   █████████████████████░░░░   83.97 %
+JSON         43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+Bash         27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+YAML         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+JavaScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->
