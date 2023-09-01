@@ -43,15 +43,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 August 2023 - To: 30 August 2023
+From: 24 August 2023 - To: 31 August 2023
 
-Total Time: 36 hrs 56 mins
+Total Time: 33 hrs 47 mins
 
-TypeScript       18 hrs 35 mins  ████████████▓░░░░░░░░░░░░   50.34 %
-JavaScript       6 hrs 57 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.82 %
-Rust             4 hrs 24 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.93 %
-Go               2 hrs 25 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
-JSON             2 hrs 23 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
+TypeScript    18 hrs 9 mins   █████████████▒░░░░░░░░░░░   53.75 %
+JavaScript    6 hrs 13 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.41 %
+Rust          4 hrs 24 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
+JSON          1 hr 59 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
+Go            55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
 ```
 
 <!--END_SECTION:waka-->
