@@ -43,12 +43,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2023 - To: 08 September 2023
+From: 02 September 2023 - To: 09 September 2023
 
 Total Time: 5 hrs 39 mins
 
-TypeScript   4 hrs 11 mins   ██████████████████▓░░░░░░   74.05 %
-Solidity     55 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
+TypeScript   4 hrs 6 mins    ██████████████████▒░░░░░░   72.67 %
+Solidity     1 hr            ████▒░░░░░░░░░░░░░░░░░░░░   17.85 %
 JSON         18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
 Rust         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
 JavaScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
