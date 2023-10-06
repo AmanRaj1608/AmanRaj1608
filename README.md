@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/hieuphamuit/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hieuphamuit/">
   <a/>
-   <a href="phamngochieuuit@gmail.com">
+   <a href="mailto:phamngochieuuit@gmail.com">
     <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phamngochieuuit@gmail.com">
    <a/>
 </p>
