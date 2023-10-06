@@ -8,7 +8,7 @@ on:
   push:
     branches: [ master ]
   schedule:
-    # Runs at 12am UTC
+    # Runs at 2pm UTC
     - cron: '0 0 * * *'
 
 jobs:
