@@ -16,14 +16,13 @@
 ---
 
 - 🏗️ Backend Developer with experience to develop features base on bussiness requirement.
-- ⚡ 
 - 🌊 I am proficient in working with TypeScript.
 - 🍣 Besides programming, I love watching Anime and reading Manga.
 <!-- - ⚡ I mostly write JavaScript for dev and C++ for competitive programming (not active now). -->
 
 ---
 
-<!--  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Github Stats 📊
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Github Stats 📊
  
   <p align="center">
       <img
@@ -34,7 +33,7 @@
         height="160em"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanraj1608&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"
       />
-  </p> -->
+  </p> 
 
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Weekly development breakdown 📊 
 <!--START_SECTION:waka-->
@@ -53,6 +52,6 @@ Assembly     0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<!-- <p align="center"><a href="https://amanraj.dev/thanks">Thanks &nbsp;❤️&nbsp;!</a></p> -->
+<!-- <p align="center"><a href="">Thanks &nbsp;❤️&nbsp;!</a></p> -->
 
-<!-- [Thanks ❤️](https://amanraj.dev/thanks) -->
+<!-- [Thanks ❤️] -->
