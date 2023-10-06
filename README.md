@@ -1,26 +1,26 @@
 <p>
   <a href="https://twitter.com/AmanRaj1608">
-    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AmanRaj1608">
+    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HoratioPham98">
    <a/>
-  <a href="https://stackoverflow.com/users/11097431/aman-raj">
-    <img src="https://img.shields.io/badge/-StackOverflow-f48024?style=flat-square&labelColor=f48024&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/11097431/aman-raj">
+  <a href="https://stackoverflow.com/users/20403779/illuminati">
+    <img src="https://img.shields.io/badge/-StackOverflow-f48024?style=flat-square&labelColor=f48024&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/20403779/illuminati">
    <a/>
-  <a href="https://www.linkedin.com/in/amanraj1608/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanraj1608/">
+  <a href="https://www.linkedin.com/in/hieuphamuit/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hieuphamuit/">
   <a/>
-   <a href="mailto:archanaamanraj@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:archanaamanraj@gmail.com">
+   <a href="phamngochieuuit@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phamngochieuuit@gmail.com">
    <a/>
-   <a href="http://blog.amanraj.dev/">
-    <img src="https://img.shields.io/badge/-Aman--Ki--Baat-31326f">
+   <a href="https://www.facebook.com/phamngochieu.MTP">
+    <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg">
    <a/>
 </p>
 
 ---
 
-- 🏗️ Blockchain Engineer with experience in developing and auditing projects on various blockchain platforms.
-- ⚡ Won several hackathons like [Encode x NEAR](https://medium.com/encode-club/encode-x-near-hackathon-finale-prizewinners-and-summary-fcf6e409ab07), [Algorand Innovate](https://algorand-innovate.hackerearth.com), [Harmony One](https://medium.com/harmony-one/winners-of-the-hack-the-horizon-hackathon-ae04f95b71ab), [Cosmos HackAtom India](https://www.hackerearth.com/challenges/hackathon/hackatom-india/), and many more.
-- 🌊 I am proficient in working with TypeScript, Go. Learning Rust.
+- 🏗️ Backend Developer with experience to develp features base on bussiness requiremnent
+- ⚡ 
+- 🌊 I am proficient in working with TypeScript.
 - 🍣 Besides programming, I love watching Anime and reading Manga.
 <!-- - ⚡ I mostly write JavaScript for dev and C++ for competitive programming (not active now). -->
 
