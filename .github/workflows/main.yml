@@ -8,8 +8,8 @@ on:
   push:
     branches: '*'
   schedule:
-    # Runs at 2:18pm UTC
-     - cron: '18 14 * * *'
+    # Runs at 2:20pm UTC
+     - cron: '20 14 * * *'
 
 jobs:
   update-readme:
