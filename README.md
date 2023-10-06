@@ -37,7 +37,7 @@
 
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Weekly development breakdown 📊 
  
-START_SECTION:waka
+<!-- START_SECTION:waka -->
 
 ```txt
 From: 28 September 2023 - To: 05 October 2023
@@ -51,8 +51,4 @@ TSConfig     2 mins          ▒░░░░░░░░░░░░░░░░
 Assembly     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
-END_SECTION:waka
-
-<p align="center"><a href="">Thanks &nbsp;❤️&nbsp;!</a></p>
-
-[Thanks ❤️]
+<!-- END_SECTION:waka -->
