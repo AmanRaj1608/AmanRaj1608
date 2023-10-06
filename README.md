@@ -15,7 +15,7 @@
 
 ---
 
-- 🏗️ Backend Developer with experience to develp features base on bussiness requirement.
+- 🏗️ Backend Developer with experience to develop features base on bussiness requirement.
 - ⚡ 
 - 🌊 I am proficient in working with TypeScript.
 - 🍣 Besides programming, I love watching Anime and reading Manga.
