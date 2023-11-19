@@ -43,15 +43,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2023 - To: 16 November 2023
+From: 10 November 2023 - To: 17 November 2023
 
-Total Time: 16 hrs 18 mins
+Total Time: 18 hrs 36 mins
 
-TypeScript                 12 hrs 9 mins   ██████████████████▓░░░░░░   74.54 %
-JSON                       1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
-Svelte                     1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
-Solidity                   28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-JavaScript                 26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+TypeScript                 14 hrs 50 mins  ████████████████████░░░░░   79.78 %
+Svelte                     1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
+JSON                       1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+JavaScript                 31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+XML                        19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 ```
 
 <!--END_SECTION:waka-->
