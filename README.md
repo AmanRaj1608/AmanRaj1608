@@ -43,15 +43,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 December 2023 - To: 14 December 2023
+From: 08 December 2023 - To: 15 December 2023
 
-Total Time: 21 hrs 47 mins
+Total Time: 17 hrs 17 mins
 
-TypeScript   18 hrs 18 mins  █████████████████████░░░░   84.03 %
-Logos        1 hr 34 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
-JSON         58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
-Other        19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-Bash         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+TypeScript   14 hrs 37 mins  █████████████████████░░░░   84.56 %
+Logos        1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+JSON         44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+Other        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Bash         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 ```
 
 <!--END_SECTION:waka-->
