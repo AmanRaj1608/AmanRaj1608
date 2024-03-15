@@ -43,12 +43,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 March 2024 - To: 13 March 2024
+From: 07 March 2024 - To: 14 March 2024
 
-Total Time: 10 mins
+Total Time: 15 mins
 
-TypeScript   10 mins         ████████████████████████▓   99.17 %
-Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+TypeScript   13 mins         ██████████████████████▓░░   90.69 %
+Solidity     1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
+Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
