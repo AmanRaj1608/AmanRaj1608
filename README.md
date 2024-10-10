@@ -10,9 +10,9 @@
 ```txt
 From: 29 March 2019 - To: 08 October 2024
 
-Total Time: 3,687 hrs
+Total Time: 3,687 hrs 20 mins
 
-TypeScript                 1,461 hrs 56 mins██████████░░░░░░░░░░░░░░░   39.65 %
+TypeScript                 1,462 hrs 5 mins██████████░░░░░░░░░░░░░░░   39.65 %
 JavaScript                 728 hrs 6 mins  █████░░░░░░░░░░░░░░░░░░░░   19.75 %
 JSX                        410 hrs 16 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
 JSON                       198 hrs 43 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
