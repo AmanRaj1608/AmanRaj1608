@@ -8,13 +8,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 March 2019 - To: 01 November 2024
+From: 29 March 2019 - To: 03 November 2024
 
-Total Time: 3,730 hrs 22 mins
+Total Time: 3,732 hrs 19 mins
 
-TypeScript                 1,501 hrs 11 mins██████████░░░░░░░░░░░░░░░   40.24 %
-JavaScript                 728 hrs 43 mins █████░░░░░░░░░░░░░░░░░░░░   19.53 %
-JSX                        410 hrs 16 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
+TypeScript                 1,503 hrs 8 mins██████████░░░░░░░░░░░░░░░   40.27 %
+JavaScript                 728 hrs 43 mins █████░░░░░░░░░░░░░░░░░░░░   19.52 %
+JSX                        410 hrs 16 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
 JSON                       198 hrs 55 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
 Rust                       135 hrs 45 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
 ```
