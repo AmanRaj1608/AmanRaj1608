@@ -1,26 +1,18 @@
-<h1 align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmx5c2N1N2lkbjg5NnI3ajI2ZXhxZ24yZ3cxcmJibTZrMWZkbjlxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AFdcYElkoNAUE/giphy.webp" width="70">, I'm Aman</h1>
-
-- 🏗️ I'm a blockchain engineer with experience in developing and auditing projects on various blockchain platforms.
-- ⚡ Won several chains hackathons like [ETH India](https://devfolio.co/projects/hivm-hybrid-intent-virtual-machine-3ba1), [Near](https://medium.com/encode-club/encode-x-near-hackathon-finale-prizewinners-and-summary-fcf6e409ab07), [Algorand](https://algorand-innovate.hackerearth.com), [Harmony](https://medium.com/harmony-one/winners-of-the-hack-the-horizon-hackathon-ae04f95b71ab), [Cosmos](https://www.hackerearth.com/challenges/hackathon/hackatom-india/), and many more.
-- 🌊 I am proficient in working with TypeScript. Beginner in Rust.
-- 🍣 Besides programming, I love watching Anime and reading Manga.
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 29 March 2019 - To: 26 November 2024
-
-Total Time: 3,778 hrs 59 mins
-
-TypeScript                 1,536 hrs 18 mins██████████░░░░░░░░░░░░░░░   40.65 %
-JavaScript                 731 hrs 45 mins █████░░░░░░░░░░░░░░░░░░░░   19.36 %
-JSX                        410 hrs 16 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
-JSON                       200 hrs 38 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
-Rust                       135 hrs 46 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
-```
-
-<!--END_SECTION:waka-->
-
+[![LinkedIn Badge](https://img.shields.io/badge/-amanraj1608-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanraj1608/)](https://www.linkedin.com/in/amanraj1608/)
+[![Website Badge](https://img.shields.io/badge/-amanraj.dev-1a73e8?style=flat-square&logo=google-chrome&logoColor=white&link=https://amanraj.dev)](https://amanraj.dev)
+[![Twitter Badge](https://img.shields.io/badge/-amanraj1608-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/amanraj1608)](https://twitter.com/amanraj1608)
+[![Gmail Badge](https://img.shields.io/badge/-me@amanraj.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@amanraj.dev)](mailto:me@amanraj.dev)
 ![Profile Views](https://komarev.com/ghpvc/?username=amanraj1608&label=Profile%20views&color=0e75b6&style=flat-square)
+
+- 🍊 Currently working on cool projects at [Biconomy Labs](https://github.com/bcnmy).
+- ⚡ Proficient in working with Solidity, TypeScript, Rust (learning).
+- 🌱 R&D in **account abstraction, developer tooling, and blockchain infrastructure**.
+- 🍣 Besides programming, love travelling, watching Anime and reading Manga.
+
+Side Projects 🛠️
+
+- [PegaSys (Research)](https://pegasys.network/litepaper.pdf): Non-custodial yield generation protocol leveraging Lightning Network.
+- [Hybrid Intent VM](https://github.com/aa-labs/hIVM): Stack-based DSL for deterministic dApp intents execution.
+- [WiseWallet: AA](https://github.com/BakaOtaku/wise-wallet): Account Abstraction stack for Cosmos ecosystem with GPT integration
 
 ![](https://hit.yhype.me/github/profile?user_id=42104907)
