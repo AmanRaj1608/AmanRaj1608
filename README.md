@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-me@amanraj.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@amanraj.dev)](mailto:me@amanraj.dev)
 ![Profile Views](https://komarev.com/ghpvc/?username=amanraj1608&label=Profile%20views&color=0e75b6&style=flat-square)
 
-- 🍊 Proficient in working with Solidity, TypeScript, Rust (learning).
+- 🍊 Proficient in working with TypeScript, Rust, and Solidity.
 - 🌱 R&D in **account abstraction, developer tooling, and blockchain infrastructure**.
 - 🍣 Besides programming, love travelling, watching Anime and reading Manga.
 
